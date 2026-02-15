@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p155453-e1648365.adobeaemcloud.com/bin/franklin.delivery/vencha12/aemforms/main
+    url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/vencha12/aemforms/main
     type: "markup"
     suffix: ".html"
